@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer architectural arch portal -->
+    <path
+        android:fillColor="#FFFFEDD5"
+        android:pathData="M31,78 L31,49 C31,36.297 41.297,26 54,26 C66.703,26 77,36.297 77,49 L77,78 L67,78 L67,49 C67,41.82 61.18,36 54,36 C46.82,36 41,41.82 41,49 L41,78 Z" />
+    <!-- Sculptural ceramic vessel silhouette inside portal -->
+    <path
+        android:fillColor="#FFFAF8F5"
+        android:pathData="M48,50 L60,50 L58,54 C62,57 63,63 61,69 C59.8,72.6 57.5,78 57.5,78 L50.5,78 C50.5,78 48.2,72.6 47,69 C45,63 46,57 50,54 Z" />
+    <!-- Warm sun disc above vessel -->
+    <path
+        android:fillColor="#FFFB923C"
+        android:pathData="M54,40 A4.5,4.5 0 1,0 54,49 A4.5,4.5 0 1,0 54,40 Z" />
+</vector>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Terrane</string>
+    <string name="nav_lookbook">Lookbook</string>
+    <string name="nav_catalog">Decor</string>
+    <string name="nav_palettes">Palettes</string>
+    <string name="nav_spaces">Moodboard</string>
+    <string name="search_placeholder">Search rooms, pieces, tones…</string>
+    <string name="quick_view">Inspect</string>
+    <string name="save_to_moodboard">Save to Moodboard</string>
+    <string name="saved_in_moodboard">Saved in Moodboard</string>
+    <string name="editorial_quote">“Architecture begins where raw clay, unbleached linen, and morning light rest in quiet equilibrium.”</string>
+</resources>

@@ -1,0 +1,233 @@
+---
+name: Warm Architectural Living
+colors:
+  surface: '#fff8f6'
+  surface-dim: '#e1d8d6'
+  surface-bright: '#fff8f6'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#fbf2f0'
+  surface-container: '#f5ecea'
+  surface-container-high: '#efe6e4'
+  surface-container-highest: '#e9e1df'
+  on-surface: '#1e1b1a'
+  on-surface-variant: '#5a4138'
+  inverse-surface: '#342f2e'
+  inverse-on-surface: '#f8efed'
+  outline: '#8e7166'
+  outline-variant: '#e2bfb2'
+  surface-tint: '#a73a00'
+  primary: '#a33900'
+  on-primary: '#ffffff'
+  primary-container: '#cc4900'
+  on-primary-container: '#fffbff'
+  inverse-primary: '#ffb599'
+  secondary: '#944a00'
+  on-secondary: '#ffffff'
+  secondary-container: '#fd933d'
+  on-secondary-container: '#693300'
+  tertiary: '#665a48'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#80735f'
+  on-tertiary-container: '#fffbff'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#ffdbce'
+  primary-fixed-dim: '#ffb599'
+  on-primary-fixed: '#370e00'
+  on-primary-fixed-variant: '#7f2b00'
+  secondary-fixed: '#ffdcc5'
+  secondary-fixed-dim: '#ffb783'
+  on-secondary-fixed: '#301400'
+  on-secondary-fixed-variant: '#713700'
+  tertiary-fixed: '#f2e0c8'
+  tertiary-fixed-dim: '#d5c4ad'
+  on-tertiary-fixed: '#231a0c'
+  on-tertiary-fixed-variant: '#504534'
+  background: '#fff8f6'
+  on-background: '#1e1b1a'
+  surface-variant: '#e9e1df'
+typography:
+  display-lg:
+    fontFamily: EB Garamond
+    fontSize: 56px
+    fontWeight: '400'
+    lineHeight: 64px
+    letterSpacing: -0.02em
+  display-lg-mobile:
+    fontFamily: EB Garamond
+    fontSize: 38px
+    fontWeight: '400'
+    lineHeight: 44px
+    letterSpacing: -0.01em
+  display-md:
+    fontFamily: EB Garamond
+    fontSize: 44px
+    fontWeight: '400'
+    lineHeight: 52px
+    letterSpacing: -0.015em
+  display-md-mobile:
+    fontFamily: EB Garamond
+    fontSize: 32px
+    fontWeight: '400'
+    lineHeight: 38px
+    letterSpacing: -0.01em
+  headline-lg:
+    fontFamily: EB Garamond
+    fontSize: 34px
+    fontWeight: '500'
+    lineHeight: 42px
+    letterSpacing: -0.01em
+  headline-lg-mobile:
+    fontFamily: EB Garamond
+    fontSize: 26px
+    fontWeight: '500'
+    lineHeight: 32px
+  headline-sm:
+    fontFamily: EB Garamond
+    fontSize: 22px
+    fontWeight: '500'
+    lineHeight: 28px
+  body-lg:
+    fontFamily: DM Sans
+    fontSize: 18px
+    fontWeight: '400'
+    lineHeight: 28px
+  body-md:
+    fontFamily: DM Sans
+    fontSize: 15px
+    fontWeight: '400'
+    lineHeight: 24px
+  body-sm:
+    fontFamily: DM Sans
+    fontSize: 13px
+    fontWeight: '400'
+    lineHeight: 20px
+  label-lg:
+    fontFamily: DM Sans
+    fontSize: 14px
+    fontWeight: '600'
+    lineHeight: 20px
+    letterSpacing: 0.04em
+  label-md:
+    fontFamily: DM Sans
+    fontSize: 12px
+    fontWeight: '500'
+    lineHeight: 16px
+    letterSpacing: 0.06em
+  label-sm:
+    fontFamily: DM Sans
+    fontSize: 11px
+    fontWeight: '500'
+    lineHeight: 14px
+    letterSpacing: 0.08em
+rounded:
+  sm: 0.5rem
+  DEFAULT: 1rem
+  md: 1.5rem
+  lg: 2rem
+  xl: 3rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-desktop: 2.5rem
+  margin: 1.25rem
+  margin-tablet: 2.5rem
+  margin-desktop: 4rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 3rem
+---
+
+## Brand & Style
+
+This design system embodies an editorial, tactile, and tranquil aesthetic tailored for curated home decor, bespoke furniture, and architectural lifestyle living. It fuses the measured restraint of warm minimalism with the human touch of artisanal craft.
+
+### Visual Character
+- **Tactile Warmth & Restraint:** The visual language emphasizes breathability, organic materials, and warm sunlight. Interfaces feel like a high-end physical lookbook rather than a transactional storefront.
+- **Tone & Atmosphere:** Calm, discerning, grounded, and timeless. Content breathes through disciplined framing and expansive negative space.
+- **Aesthetic Direction:** Warm editorial minimalism. Clean planes of muted ecru and linen neutrals provide a canvas for rich terracotta moments, structural natural photography, and refined typographic contrast.
+
+## Colors
+
+The palette is rooted in kiln-fired clay, sun-bleached linen, and raw timber. It avoids harsh digital values in favor of calibrated organic tones.
+
+### Palette Architecture
+- **Primary (`#EA580C`):** Terracotta umber. Reserved for focal interaction points, active indicators, and high-priority brand moments.
+- **Secondary (`#FB923C`):** Sun-dappled apricot. Used for secondary active states, badges, and contextual highlights.
+- **Tertiary (`#FFEDD5`):** Warm alabaster glaze. Used for subtle card fills, elevated pill controls, and tonal container backgrounds.
+- **Neutral Core (`#292524`):** Smoked walnut. Replaces pure black to deliver high typographic legibility with softening nuance.
+- **Canvas Base (`#FAF8F5`):** Crisp ecru paper ground that anchors the catalog experience.
+- **Surface Elevation (`#F4EFEA`):** Tonal sub-canvas used for grouping nested modules, filters, and inset modules.
+- **Structural Outlines (`#E6DFD5`):** Bone hairline tone for dividers, subtle borders, and delicate frame lines.
+
+## Typography
+
+Typography balances historical warmth with architectural precision.
+
+### Hierarchy & Pairings
+- **Display & Headlines (`EB Garamond`):** Instills editorial prestige, provenance, and literary cadence. Titles, collection names, and curated quotes use classic proportions with gentle negative tracking at scale.
+- **Interface & Metrics (`DM Sans`):** Provides unencumbered legibility for product descriptions, price tags, specifications, and navigational controls.
+- **Labels & Microcopy:** Rendered primarily in uppercase with intentional tracking (`0.04em` to `0.08em`) to act as architectural signposts across dense catalog views.
+
+## Layout & Spacing
+
+The layout philosophy centers on dynamic visual breathing room, allowing individual home objects and interior environments to command spatial presence.
+
+### Grid & Canvas Structure
+- **Desktop (12 Columns):** Fluid max-width container capped at `1440px`. Column gutters set to `gutter-desktop` (`2.5rem`) with outer canvas margins of `margin-desktop` (`4rem`).
+- **Tablet (8 Columns):** Standardized responsive grid with `1.5rem` gutters and `2.5rem` margins.
+- **Mobile (4 Columns):** Single-to-dual column product layouts utilizing `1rem` gutters and `1.25rem` margins.
+
+### Rhythmic Cadence
+- Vertical pacing between curated room vignettes relies on generous `space-xl` intervals to prevent catalog fatigue.
+- Internal component offsets adhere strictly to multiples of the standard spacing scale (`space-xs` through `space-xl`).
+
+## Elevation & Depth
+
+Visual hierarchy rejects intense simulated 3D drop shadows in favor of ambient warmth, atmospheric light, and delicate structural line work.
+
+### Depth Principles
+- **Ground Floor:** `#FAF8F5` serves as the primary canvas plane.
+- **Tonal Stepping:** Surfaces layer upward via subtle tint shifts (`#F4EFEA`) rather than hard elevation steps.
+- **Ghost Outlines:** Elevated surfaces, cards, and dropdown containers utilize razor-thin borders (`1px solid #E6DFD5`) instead of harsh division lines.
+- **Ambient Sunlight Shadows:** When elevated states occur (e.g., hover interactions or floating shopping drawers), shadows use low-opacity terracotta-tinted diffusions: `0 12px 32px -4px rgba(41, 37, 36, 0.05), 0 4px 12px -2px rgba(234, 88, 12, 0.03)`.
+
+## Shapes
+
+The design system adopts a deliberate contrast between structured rectangular imagery containers and soft pill-shaped interactive elements.
+
+### Curvature Taxonomy
+- **Pill Primitives:** Buttons, filter chips, tag badges, and search bars utilize full pill silhouettes to evoke smooth river stones and rounded ceramic contours.
+- **Surface Containers:** Product cards, lookbook modules, and informational panels maintain softer base rounding (`rounded-lg` / `1rem`) to keep the architectural rhythm anchored.
+- **Media Framing:** Imagery aspect ratios remain crisp (primarily 4:5 vertical portrait and 16:10 cinematic landscape) with subtle border smoothing.
+
+## Components
+
+### Buttons
+- **Primary Button:** Pill-shaped, background `#EA580C`, foreground `#FFFFFF`, zero border. On hover, transitions smoothly to `#C2410C`.
+- **Secondary / Ghost Button:** Pill-shaped, transparent background, `1px solid #E6DFD5`, foreground `#292524`. On hover, surface fills with `#FFF7ED` and border tint shifts to `#FB923C`.
+- **Text Link Button:** Understated text link in `label-lg` uppercase with a trailing hairline arrow and a bottom border offset by `4px`.
+
+### Chips & Filters
+- **Filter Chips:** Pill-shaped container, height `36px`, filled with `#F4EFEA`, border `1px solid transparent`.
+- **Selected State:** Background shifts to `#FFEDD5`, border tint matches `#FB923C`, label switches to `#EA580C` with a semi-bold weight.
+
+### Product Cards
+- **Structure:** Frameless architecture. Top media container displays high-resolution lifestyle photography on a `#F4EFEA` backdrop.
+- **Typography Stack:** Category label (`label-sm`, `#FB923C`), product name (`EB Garamond`, `headline-sm`, `#292524`), followed by price formatted in clean tabular numerals (`DM Sans`, `body-md`, `#292524`).
+- **Interactive State:** Hover subtly lifts the imagery scale (`transform: scale(1.02)`) while revealing an understated "Quick View" pill centered along the base.
+
+### Form Inputs & Search
+- **Search Field:** Extended pill container with an integrated search glyph, background `#F4EFEA`, border `1px solid #E6DFD5`, placeholder rendered in `#A8A29E`.
+- **Focus State:** Transitions to background `#FFFFFF` with a crisp outer glow of `0 0 0 1.5px #EA580C`.
+
+### Selection Controls
+- **Radio & Checkboxes:** Circular geometry with custom center indicators. Unchecked state features an `#E6DFD5` rim; checked state fills with `#EA580C` featuring a pure white interior dot or checkmark.
+
+### Additional Catalog Elements
+- **Material Swatches:** Small `24px` circular swatches (bouclé, walnut, travertine, linen) framed with a subtle inner ring and an active terracotta halo when selected.
+- **Editorial Dimension Specifier:** Compact tabular modules detailing width, height, and depth with monospaced precision using `DM Sans` alongside line-art technical drawings.
